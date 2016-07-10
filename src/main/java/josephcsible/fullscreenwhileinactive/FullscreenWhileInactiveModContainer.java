@@ -31,10 +31,10 @@ public class FullscreenWhileInactiveModContainer extends DummyModContainer {
 		// XXX almost all this is duplicated between here and mcmod.info
 		metadata.modId = "fullscreenwhileinactive";
 		// XXX version is duplicated between here and build.gradle
-		metadata.version = "1.7.10-1.0.0";
+		metadata.version = "1.0.0";
 		metadata.name = "FullscreenWhileInactive";
 		metadata.description = "Allows Minecraft to stay fullscreen when it becomes inactive, also fixing bug MC-55045";
-		metadata.url = "";
+		metadata.url = "http://minecraft.curseforge.com/projects/fullscreenwhileinactive";
 		metadata.authorList.add("Joseph C. Sible");
 	}
 
